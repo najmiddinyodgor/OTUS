@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7527851c598d665e7b9613be5595c31b",
+    "packages": [
+        {
+            "name": "najmiddinyodgor/bracketschecker",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/najmiddinyodgor/BracketsChecker.git",
+                "reference": "53c4a2aefcc0cb1d02b67d394fab77c939279070"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/najmiddinyodgor/BracketsChecker/zipball/53c4a2aefcc0cb1d02b67d394fab77c939279070",
+                "reference": "53c4a2aefcc0cb1d02b67d394fab77c939279070",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "BracketsChecker\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Najmiddin Yodgor",
+                    "email": "najmiddinyodgor@gmail.com"
+                }
+            ],
+            "time": "2020-10-29T10:18:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "najmiddinyodgor/bracketschecker": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}

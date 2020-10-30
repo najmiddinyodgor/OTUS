@@ -1,0 +1,17 @@
+{
+    "name": "najmiddinyodgor/lesson2",
+    "authors": [
+        {
+            "name": "Najmiddin Yodgor",
+            "email": "najmiddinyodgor@gmail.com"
+        }
+    ],
+    "require": {
+    	"najmiddinyodgor/bracketschecker": "dev-main"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"App\\": "app/"
+    	}
+    }
+}
